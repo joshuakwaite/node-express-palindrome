@@ -2,8 +2,7 @@
 
 ## Startup
 
-`npm i`
-`npm start` or `npm run dev`
+`npm i` && `npm start` or `npm run dev`
 
 ## Configuration
 Configuration points:
