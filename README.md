@@ -6,7 +6,7 @@
 
 ## Endpoints
 
-All endpoints below are listed relative to the path specified in the `http.path` configuration point.
+All endpoints below are listed relative to the path `/`.
 
 ### GET `/health`
 
