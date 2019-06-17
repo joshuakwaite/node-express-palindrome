@@ -4,19 +4,16 @@
 
 `npm i` && `npm start` or `npm run dev`
 
-## Configuration
-Configuration points:
-
-- `http.port` (default = `3000`): The port to listen on for web requests.
-- `http.path` (default `'/'`): The path where the endpoints will be attached.
-
 ## Endpoints
+
 All endpoints below are listed relative to the path specified in the `http.path` configuration point.
 
 ### GET `/health`
+
 Health check endpoint.
 
 ### GET `/palindrome`
+
 Check whether a word is palindrome or not. Query parameters:
 Find client entities by name and/or labels. This request supports property selection. Query parameters:
 
